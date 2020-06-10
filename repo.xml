@@ -3,12 +3,12 @@
 		<link>
 			<name>My Reddit Page</name>
 			<url>https://reddit.com/u/AgentxRyan</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 		<link>
 			<name>Jailbreak Reddit</name>
 			<url>https://reddit.com/r/Jailbreak</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</footerlinks>
 </repo>
