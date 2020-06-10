@@ -1,9 +1,9 @@
 Package: com.rpetrich.iconrenamer
 Version: 1.2.6
 Section: Tweaks
-Maintainer: RyanPetrich <rpetrich@gmail.com>
+Maintainer: Agent
 Architecture: iphoneos-arm
-Filename: ./IconRenamer.deb
+Filename: ./com.rpetrich.iconrenamer.deb
 Size: 18398
 MD5sum: 9a26c3d08853ac3084090c7f2e296562
 Description: This is a test package, but it should work on iOS 13.
