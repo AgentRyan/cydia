@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.oldpackage</id>
-	<name>DEV-Old Package</name>
+	<name>Old Package</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>DEVTEST</change>
+		<change>Initial release</change>
 	</changelog>
 	<links></links>
 </package>
