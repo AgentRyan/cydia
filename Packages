@@ -2,7 +2,6 @@ Package: com.rpetrich.iconrenamer
 Version: 1.2.6
 Architecture: iphoneos-arm
 Maintainer: Agent <busibuss222@gmail.com>
-Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: /IconRenamer.deb
 Size: 18398
 MD5sum: 9a26c3d08853ac3084090c7f2e296562
