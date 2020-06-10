@@ -1,13 +1,11 @@
 Package: com.rpetrich.iconrenamer
 Version: 1.2.6
+Section: Tweaks
+Maintainer: RyanPetrich <rpetrich@gmail.com>
 Architecture: iphoneos-arm
-Maintainer: Agent <busibuss222@gmail.com>
-Filename: /IconRenamer.deb
+Filename: ./IconRenamer.deb
 Size: 18398
 MD5sum: 9a26c3d08853ac3084090c7f2e296562
-SHA1: 0a6854edffcbea1bc736f296922d4cc7dd760275
-SHA256: 3e2674a3d8fba1ad244f4567b8f64d4d31540a804539ca437656ec7b5043312c
-Section: SpringBoard Tweaks
-Description: Test Tweak for my repo
-Author: Ryan Petrich <rpetrich@gmail.com>
+Description: This is a test package, but it should work on iOS 13.
 Name: Icon Renamer
+Author: Ryan Petrich <rpetrich@gmail.com>
