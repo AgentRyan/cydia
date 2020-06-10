@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
+	<name>DEV-Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -10,30 +10,20 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a sample new package. Don't install! It's used by Agent (me) to test the repo.</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Don't download, it is a dev test</description>
+		<description>I am using this to test out the repo</description>
 	</descriptionlist>
-	<screenshots>
+	<screenshots>	
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>shot1.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>DEV-TEST Statement:</change>
+		<change>In use for a DEV-TEST only!</change>
+		<change>Do not install!!</change>
 	</changelog>
 	<links>
 		<link>
