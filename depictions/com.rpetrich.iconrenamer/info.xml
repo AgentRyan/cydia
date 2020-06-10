@@ -1,0 +1,45 @@
+<package>
+	<id>com.rpetrich.iconrenamer</id>
+	<name>Icon Renamer</name>
+	<version>1.2.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This tweak has not been tested on iOS 12 and below. Should work for iOS 13.</shortDescription>
+	<descriptionlist>
+		<description>This package can rename your apps if you would like.</description>
+		<description>It's a good way to prank your friends or have a nice aesthetic with all of your apps.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>So far, this tweak does not have any screenshots. Check back later and there might be screenshots.</description>
+			<image>shot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>First Release</change>
+		<change>Can rename apps</change>
+		<change>Made by Ryan Petrich</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
