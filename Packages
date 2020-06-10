@@ -7,7 +7,7 @@ Size: 18398
 MD5sum: 9a26c3d08853ac3084090c7f2e296562
 SHA1: 0a6854edffcbea1bc736f296922d4cc7dd760275
 SHA256: 3e2674a3d8fba1ad244f4567b8f64d4d31540a804539ca437656ec7b5043312c
-Section: Tweaks
+Section: SpringBoard Tweaks
 Description: Test Tweak for my repo
 Author: Ryan Petrich <rpetrich@gmail.com>
 Name: Icon Renamer
